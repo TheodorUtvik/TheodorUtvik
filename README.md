@@ -90,7 +90,7 @@ Scrapes pro padel matches, engineers 33 pre-match features (ELO, pair chemistry,
 ### <img src="./assets/icons/wrench.svg" width="20" align="center" /> &nbsp;Toolbox
 
 <div align="center">
-  <img src="./assets/toolbox.svg" width="100%" alt="Python, TypeScript, Java, Linux, Claude, Codex, Supabase, Vercel, Azure, Docker" />
+  <img src="./assets/toolbox.svg" width="100%" alt="Python, TypeScript, Java, scikit-learn, Linux, Claude, Codex, Supabase, Vercel, Azure, Docker" />
 </div>
 
 <br/>
