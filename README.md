@@ -52,7 +52,7 @@ Predicts Fantasy Premier League points for every player, then lets **integer lin
 </td>
 <td width="50%" valign="top">
 
-#### <img src="./assets/icons/calendar-days.svg" width="16" align="center" /> &nbsp;[Expo Vestfold Event Manager](./assets/expov-plakat.pdf)
+#### <img src="./assets/icons/calendar-days.svg" width="16" align="center" /> &nbsp;[Expo Vestfold Event Manager](./assets/expov-plakat.png)
 A production event platform that replaced a legacy desktop tool. Cascading run-of-show scheduling and a **real-time multi-user view** for the crew on show day.
 
 `live in production` · `CRM` · `real-time collaboration`
