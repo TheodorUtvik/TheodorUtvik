@@ -123,7 +123,7 @@ Scrapes pro padel matches, engineers 33 pre-match features (ELO, pair chemistry,
 
 **Got an ambitious idea where AI solves a real problem? Let's talk.**
 
-[LinkedIn](https://linkedin.com/in/theodorutvik) · [Email](mailto:theodor.utvik@gmail.com) · [Portfolio](https://github.com/TheodorUtvik/portfolio)
+<a href="https://linkedin.com/in/theodorutvik"><img src="./assets/icons/linkedin.svg" width="30" alt="LinkedIn" align="center" /></a> &nbsp;·&nbsp; <a href="mailto:theodor.utvik@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:D4D2DF,60:B3AFC4,100:1C1F33" width="100%" alt="" />
 
