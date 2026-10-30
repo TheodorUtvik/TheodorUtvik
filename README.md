@@ -18,7 +18,7 @@
   <img src="./assets/training.svg" width="100%" alt="Animated terminal training the Theodor model" />
 </div>
 
-### <img src="./assets/icons/terminal.svg" width="20" align="center" /> &nbsp;whoami
+### <img src="./assets/icons/terminal.svg" width="20" style="vertical-align: 0.1em;" /> &nbsp;whoami
 
 ```python
 class Theodor:
@@ -36,13 +36,13 @@ class Theodor:
 
 <br/>
 
-### <img src="./assets/icons/layers.svg" width="20" align="center" /> &nbsp;Featured builds
+### <img src="./assets/icons/layers.svg" width="20" style="vertical-align: 0.1em;" /> &nbsp;Featured builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="./assets/icons/trophy.svg" width="16" align="center" /> &nbsp;[FPL Intelligence](https://github.com/TheodorUtvik/fpl-intelligence)
+#### <img src="./assets/icons/trophy.svg" width="16" style="vertical-align: 0.1em;" /> &nbsp;[FPL Intelligence](https://github.com/TheodorUtvik/fpl-intelligence)
 Predicts Fantasy Premier League points for every player, then lets **integer linear programming** pick the best squad and transfers under real FPL rules.
 
 `MAE 0.75` · `R² 0.61` · `400+ players` · **retrains itself** after every gameweek via GitHub Actions
@@ -52,7 +52,7 @@ Predicts Fantasy Premier League points for every player, then lets **integer lin
 </td>
 <td width="50%" valign="top">
 
-#### <img src="./assets/icons/calendar-days.svg" width="16" align="center" /> &nbsp;[Expo Vestfold Event Manager](./assets/expov-plakat.png)
+#### <img src="./assets/icons/calendar-days.svg" width="16" style="vertical-align: 0.1em;" /> &nbsp;[Expo Vestfold Event Manager](./assets/expov-plakat.png)
 A production event platform that replaced a legacy desktop tool. Cascading run-of-show scheduling and a **real-time multi-user view** for the crew on show day.
 
 `live in production` · `CRM` · `real-time collaboration`
@@ -64,7 +64,7 @@ A production event platform that replaced a legacy desktop tool. Cascading run-o
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="./assets/icons/shield-alert.svg" width="16" align="center" /> &nbsp;[Medicare Fraud Prediction](https://github.com/TheodorUtvik/predictive-modelling)
+#### <img src="./assets/icons/shield-alert.svg" width="16" style="vertical-align: 0.1em;" /> &nbsp;[Medicare Fraud Prediction](https://github.com/TheodorUtvik/predictive-modelling)
 Which US Medicare providers will be excluded for fraud within three years, judged only by how they bill today? Rolling validation folds, bootstrap CIs, fairness checks, and a **lockbox opened exactly once**.
 
 `2013 – 2022 panel` · `leakage audited`
@@ -74,7 +74,7 @@ Which US Medicare providers will be excluded for fraud within three years, judge
 </td>
 <td width="50%" valign="top">
 
-#### <img src="./assets/icons/activity.svg" width="16" align="center" /> &nbsp;[Padel Analytics](https://github.com/TheodorUtvik/padel-analytics)
+#### <img src="./assets/icons/activity.svg" width="16" style="vertical-align: 0.1em;" /> &nbsp;[Padel Analytics](https://github.com/TheodorUtvik/padel-analytics)
 Scrapes pro padel matches, engineers 33 pre-match features (ELO, pair chemistry, head-to-head, form streaks) and serves win probabilities for any two pairs.
 
 `75.4% accuracy` · `+11 pp over ELO baseline`
@@ -87,15 +87,15 @@ Scrapes pro padel matches, engineers 33 pre-match features (ELO, pair chemistry,
 
 <br/>
 
-### <img src="./assets/icons/wrench.svg" width="20" align="center" /> &nbsp;Toolbox
+### <img src="./assets/icons/wrench.svg" width="20" style="vertical-align: 0.1em;" /> &nbsp;Toolbox
 
 <div align="center">
-  <img src="./assets/toolbox.svg" width="100%" alt="Python, TypeScript, Java, scikit-learn, Linux, Claude, Codex, Supabase, Vercel, Azure, Docker" />
+  <img src="./assets/toolbox.svg" width="100%" alt="Python, TypeScript, Java, scikit-learn, Linux, Claude, Codex, Supabase, Vercel, Azure, Docker, Hetzner" />
 </div>
 
 <br/>
 
-### <img src="./assets/icons/git-graph.svg" width="20" align="center" /> &nbsp;Contributions, eaten
+### <img src="./assets/icons/git-graph.svg" width="20" style="vertical-align: 0.1em;" /> &nbsp;Contributions, eaten
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Scrapes pro padel matches, engineers 33 pre-match features (ELO, pair chemistry,
 </div>
 
 <details>
-<summary><b><img src="./assets/icons/coffee.svg" width="16" align="center" /> &nbsp;Fun facts (click me)</b></summary>
+<summary><b><img src="./assets/icons/coffee.svg" width="16" style="vertical-align: 0.1em;" /> &nbsp;Fun facts (click me)</b></summary>
 <br/>
 
 - Spent four years behind the counter at a bubble-tea shop. A Saturday rush is basically a constraint solver.
