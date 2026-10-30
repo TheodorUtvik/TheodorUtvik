@@ -52,9 +52,9 @@
 
   <!-- window -->
   <rect x="1" y="1" width="858" height="328" rx="14" fill="url(#bg)" stroke="#343854" stroke-width="2"/>
-  <circle cx="26" cy="24" r="6" fill="#8A85A6"/>
-  <circle cx="46" cy="24" r="6" fill="#B3AFC4"/>
-  <circle cx="66" cy="24" r="6" fill="#D4D2DF"/>
+  <circle cx="26" cy="24" r="6" fill="#FF5F57"/>
+  <circle cx="46" cy="24" r="6" fill="#FEBC2E"/>
+  <circle cx="66" cy="24" r="6" fill="#28C840"/>
   <text x="430" y="29" text-anchor="middle" class="mono dim" font-size="13">theodor@oslo: ~/career</text>
   <line x1="1" y1="44" x2="859" y2="44" stroke="#343854" stroke-width="2"/>
 
