@@ -28,7 +28,7 @@ class Theodor:
     teaching   = "Learning assistant, software engineering & programming @ NTNU"
     side_quest = "Deputy leader @ Econa BI"
 
-    route = ["Drammen", "Shanghai", "Busan", "Tønsberg", "Manila", "Gjøvik", "Oslo"]
+    route = ["Drammen", "Busan", "Shanghai", "Tønsberg", "Manila", "Tønsberg", "Gjøvik", "Oslo"]
 
     def philosophy(self):
         return "Overfit on curiosity. Regularise with coffee."
@@ -106,6 +106,16 @@ Scrapes pro padel matches, engineers 33 pre-match features (ELO, pair chemistry,
 </picture>
 
 </div>
+
+<br/>
+
+### <img src="./assets/icons/map-pinned.svg" width="20" style="vertical-align: 0.1em;" /> &nbsp;Places lived
+
+<div align="center">
+  <img src="./assets/route.svg" width="100%" alt="Map of places I've lived: Drammen 2004, Busan 2005, Shanghai 2007, Tønsberg 2009, Manila 2016, Tønsberg 2018, Gjøvik 2023, Oslo now" />
+</div>
+
+<br/>
 
 <details>
 <summary><b><img src="./assets/icons/coffee.svg" width="16" style="vertical-align: 0.1em;" /> &nbsp;Fun facts (click me)</b></summary>
