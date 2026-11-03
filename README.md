@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/theodorutvik"><img src="./assets/icons/linkedin.svg" height="28" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/theodorutvik" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/linkedin.svg" height="28" alt="LinkedIn" /></a>
 <a href="mailto:theodor.utvik@gmail.com"><img src="https://img.shields.io/badge/Email-say_hei-8A85A6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1F33" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Based_in-Oslo%2C_Norway-B3AFC4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1C1F33" alt="Based in Oslo, Norway" />
 
@@ -133,7 +133,7 @@ Scrapes pro padel matches, engineers 33 pre-match features (ELO, pair chemistry,
 
 **Got an ambitious idea where AI solves a real problem? Let's talk.**
 
-<a href="https://linkedin.com/in/theodorutvik"><img src="./assets/icons/linkedin.svg" width="30" alt="LinkedIn" align="center" /></a> &nbsp;&nbsp; <a href="mailto:theodor.utvik@gmail.com"><img src="./assets/icons/mail.svg" width="30" alt="Email" align="center" /></a>
+<a href="https://linkedin.com/in/theodorutvik" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/linkedin.svg" width="30" alt="LinkedIn" align="center" /></a> &nbsp;&nbsp; <a href="mailto:theodor.utvik@gmail.com"><img src="./assets/icons/mail.svg" width="30" alt="Email" align="center" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:D4D2DF,60:B3AFC4,100:1C1F33" width="100%" alt="" />
 
